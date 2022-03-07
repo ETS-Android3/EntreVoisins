@@ -1175,11 +1175,11 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
-id name
 id nameLyt
 id navigation_header_container
 id neighbourItem
 id never
+id nom
 id none
 id normal
 id notification_background

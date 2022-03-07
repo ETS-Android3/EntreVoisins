@@ -1174,11 +1174,11 @@ int id mini 0x7f080080
 int id mtrl_child_content_container 0x7f080081
 int id mtrl_internal_children_alpha_tag 0x7f080082
 int id multiply 0x7f080083
-int id name 0x7f080084
-int id nameLyt 0x7f080085
-int id navigation_header_container 0x7f080086
-int id neighbourItem 0x7f080087
-int id never 0x7f080088
+int id nameLyt 0x7f080084
+int id navigation_header_container 0x7f080085
+int id neighbourItem 0x7f080086
+int id never 0x7f080087
+int id nom 0x7f080088
 int id none 0x7f080089
 int id normal 0x7f08008a
 int id notification_background 0x7f08008b

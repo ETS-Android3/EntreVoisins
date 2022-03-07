@@ -1073,7 +1073,7 @@ public final class R {
         public static final int mtrl_child_content_container = 0x7f080081;
         public static final int mtrl_internal_children_alpha_tag = 0x7f080082;
         public static final int multiply = 0x7f080083;
-        public static final int navigation_header_container = 0x7f080086;
+        public static final int navigation_header_container = 0x7f080085;
         public static final int none = 0x7f080089;
         public static final int normal = 0x7f08008a;
         public static final int notification_background = 0x7f08008b;
