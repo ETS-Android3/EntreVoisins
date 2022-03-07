@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -48,12 +48,12 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/bf097288ab326dacf4aecb4dbb06c5cd/res/layout/notification_template_media_custom.xml"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/bf097288ab326dacf4aecb4dbb06c5cd/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -78,6 +78,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_activity_profile_neighbour.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/layout/activity_profile_neighbour.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -134,6 +138,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_fragment_favoris_neighbour.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/layout/fragment_favoris_neighbour.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -208,20 +216,20 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -232,12 +240,12 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-v21/abc_list_divider_material.xml"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -292,12 +300,12 @@
         "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -396,12 +404,12 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
-        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/color-v23/abc_tint_switch_track.xml"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/color_mtrl_btn_bg_color_selector.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -526,6 +534,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_web_24.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_web_24.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -722,6 +734,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_fragment_profile_neighbour.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/layout/fragment_profile_neighbour.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -972,6 +988,10 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_location_red_24dp.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_location_red_24dp.xml"
+    },
+    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/layout/design_bottom_sheet_dialog.xml"
     },
@@ -986,6 +1006,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/696e41c9b23de9c0a1ed4fd390dab093/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_baseline_phone_24.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1158,10 +1182,6 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_activity_profil_neighbour.xml.flat",
-        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/layout/activity_profil_neighbour.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/anim_abc_tooltip_exit.xml.flat",

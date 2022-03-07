@@ -1,4 +1,4 @@
-#Sun Mar 06 13:35:20 CET 2022
+#Mon Mar 07 16:43:19 CET 2022
 base.1=/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 base.0=/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/transforms/dexMerger/debug/1

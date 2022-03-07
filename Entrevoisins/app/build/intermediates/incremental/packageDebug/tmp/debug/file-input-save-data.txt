@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 06 13:35:20 CET 2022
+#Mon Mar 07 15:16:05 CET 2022
 0.base=/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 1.baseType=DIRECTORY

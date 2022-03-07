@@ -39,12 +39,6 @@ public class ListNeighbourActivity extends AppCompatActivity {
         mTabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
 
     }
-    Intent intent = new Intent(this, ProfilNeighbourActivity.class);
-    EditText editText = (EditText) findViewById(R.id.list_neighbours);
-    String message = editText.getText().toString();
-    startActivity(ProfilNeighbourActivity); {
-
-    }
 
     @OnClick(R.id.add_neighbour)
     void addNeighbour() {
