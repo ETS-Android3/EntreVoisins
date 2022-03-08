@@ -988,10 +988,6 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_location_red_24dp.xml.flat",
-        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_location_red_24dp.xml"
-    },
-    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/bfd0c3cb15dcad4952a0376363aeb933/res/layout/design_bottom_sheet_dialog.xml"
     },
@@ -1602,6 +1598,10 @@
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_fragment_neighbour_list.xml.flat",
         "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml"
+    },
+    {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_location_24dp.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_location_24dp.xml"
     },
     {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",

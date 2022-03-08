@@ -609,6 +609,7 @@ color cardview_shadow_start_color
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
+color color_cadre
 color design_bottom_navigation_shadow_color
 color design_default_color_primary
 color design_default_color_primary_dark
@@ -1018,7 +1019,7 @@ drawable ic_baseline_phone_24
 drawable ic_delete_white_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable ic_location_red_24dp
+drawable ic_location_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
@@ -1175,11 +1176,11 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id name
 id nameLyt
 id navigation_header_container
 id neighbourItem
 id never
-id nom
 id none
 id normal
 id notification_background
