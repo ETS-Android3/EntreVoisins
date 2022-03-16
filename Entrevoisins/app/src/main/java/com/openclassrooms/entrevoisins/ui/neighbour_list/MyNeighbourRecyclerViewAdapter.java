@@ -27,9 +27,11 @@ import butterknife.ButterKnife;
 public class MyNeighbourRecyclerViewAdapter extends RecyclerView.Adapter<MyNeighbourRecyclerViewAdapter.ViewHolder> {
 
     private final List<Neighbour> mNeighbours;
+    boolean isFavorite;
 
-    public MyNeighbourRecyclerViewAdapter(List<Neighbour> items) {
+    public MyNeighbourRecyclerViewAdapter(List<Neighbour> items, boolean isFavorite) {
         mNeighbours = items;
+        this.isFavorite = isFavorite;
     }
 
     @Override
@@ -48,6 +50,11 @@ public class MyNeighbourRecyclerViewAdapter extends RecyclerView.Adapter<MyNeigh
                 .apply(RequestOptions.circleCropTransform())
                 .into(holder.mNeighbourAvatar);
 
+        holder.mDeleteButton.setVisibility(View.VISIBLE);
+        if (isFavorite) {
+            holder.mDeleteButton.setVisibility(View.GONE);
+        }
+        
         holder.mDeleteButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

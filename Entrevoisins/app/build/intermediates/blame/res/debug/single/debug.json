@@ -1488,6 +1488,10 @@
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f1256086d20e062b1aa2bf1b7a31c135/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
         "merged": "/Users/florianlautescher/Desktop/EntreVoisins/Entrevoisins/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/Users/florianlautescher/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/bf097288ab326dacf4aecb4dbb06c5cd/res/layout/notification_media_action.xml"
     },
